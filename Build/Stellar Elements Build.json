@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Stellar Elements",
+"productVersion": "0.1",
+"dataUrl": "Stellar Elements Build.data.unityweb",
+"wasmCodeUrl": "Stellar Elements Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Stellar Elements Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
